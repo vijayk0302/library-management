@@ -50,6 +50,6 @@ npm i express
 npm inodemon --save-dev
 
 
-npm run dev
+npm run dev --> to start application
 
 to restore node modules and package-lock.json --> npm i/npm install

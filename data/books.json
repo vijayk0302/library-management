@@ -1,42 +1,44 @@
-[
-  {
-    "id": 1,
-    "name": "The Alchemist",
-    "author": "Paulo Coelho",
-    "genre": "Fiction",
-    "price": 9.99,
-    "publisher": "HarperOne"
-  },
-  {
-    "id": 2,
-    "name": "Atomic Habits",
-    "author": "James Clear",
-    "genre": "Self-Help",
-    "price": 14.50,
-    "publisher": "Avery"
-  },
-  {
-    "id": 3,
-    "name": "To Kill a Mockingbird",
-    "author": "Harper Lee",
-    "genre": "Classic",
-    "price": 11.99,
-    "publisher": "J.B. Lippincott & Co."
-  },
-  {
-    "id": 4,
-    "name": "1984",
-    "author": "George Orwell",
-    "genre": "Dystopian",
-    "price": 10.75,
-    "publisher": "Secker & Warburg"
-  },
-  {
-    "id": 5,
-    "name": "The Pragmatic Programmer",
-    "author": "Andrew Hunt & David Thomas",
-    "genre": "Technology",
-    "price": 39.99,
-    "publisher": "Addison-Wesley"
-  }
-]
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "price": 9.99,
+      "publisher": "HarperOne"
+    },
+    {
+      "id": 2,
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "price": 14.50,
+      "publisher": "Avery"
+    },
+    {
+      "id": 3,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "price": 11.99,
+      "publisher": "J.B. Lippincott & Co."
+    },
+    {
+      "id": 4,
+      "name": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "price": 10.75,
+      "publisher": "Secker & Warburg"
+    },
+    {
+      "id": 5,
+      "name": "The Pragmatic Programmer",
+      "author": "Andrew Hunt & David Thomas",
+      "genre": "Technology",
+      "price": 39.99,
+      "publisher": "Addison-Wesley"
+    }
+  ]
+}
